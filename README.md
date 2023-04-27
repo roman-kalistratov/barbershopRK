@@ -7,6 +7,14 @@ Project features include:
 
 The website has a simple, stylish, and practical design that provides easy navigation and ease of use.
 
+Enter your data to work correctly:
+to server/.env : 
+ - dbUrl = "Your connection to MongoDB"
+ - secretKey = "Your random secret key"
+
+to client/src.env.local : 
+- REACT_APP_GOOGLE_MAPS_API_KEY = "Your google maps api key"
+
 <img src="/demo-images/barbershop-demo.png?raw=true" >
 <img src="/demo-images/demo-login.png?raw=true" >
 <img src="/demo-images/demo-registration.png?raw=true" >
