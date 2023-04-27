@@ -1,4 +1,3 @@
-<img src="/barbershop-demo.png?raw=true" >
 
 The website is an online platform, where clients can book appointments for barber services, check prices and services.
 Project features include:
@@ -7,3 +6,9 @@ Project features include:
 - Ability to check or cancel appointments in the user's personal account (implemented in the demo version)
 
 The website has a simple, stylish, and practical design that provides easy navigation and ease of use.
+
+<img src="/demo-images/barbershop-demo.png?raw=true" >
+<img src="/demo-images/demo-login.png?raw=true" >
+<img src="/demo-images/demo-registration.png?raw=true" >
+<img src="/demo-images/demo-booking.png?raw=true" >
+<img src="/demo-images/demo-myAccount.png?raw=true" >
