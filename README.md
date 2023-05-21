@@ -19,10 +19,26 @@ to client/src.env.local :
 ```shell
 REACT_APP_GOOGLE_MAPS_API_KEY = "Your google maps api key"
 ```
+## Building
+client:
+```shell
+ cd client
+ npm i
+ npm start
+```
+server:
+```shell
+ cd server
+ npm i
+ npm run dev
+```
 
 # Preview
-<img src="/demo-images/barbershop-demo.png?raw=true" >
-<img src="/demo-images/demo-login.png?raw=true" >
-<img src="/demo-images/demo-registration.png?raw=true" >
-<img src="/demo-images/demo-booking.png?raw=true" >
-<img src="/demo-images/demo-myAccount.png?raw=true" >
+![demo-registration](https://github.com/roman-kalistratov/barbershopRK/assets/80212286/9078c8ac-d1ff-411f-a328-67832b92357f)
+![demo-myAccount](https://github.com/roman-kalistratov/barbershopRK/assets/80212286/b89a8225-20f9-415a-ba63-e0bef0953510)
+![demo-login](https://github.com/roman-kalistratov/barbershopRK/assets/80212286/44a2a392-69ac-4e6f-8605-aa37f96c15af)
+![demo-booking](https://github.com/roman-kalistratov/barbershopRK/assets/80212286/a93e8477-157e-47e7-8d7c-ed57da371c6c)
+![barbershop-demo](https://github.com/roman-kalistratov/barbershopRK/assets/80212286/808db373-79ba-4cab-910c-684db8441634)
+![barbershoprk onrender com_](https://github.com/roman-kalistratov/barbershopRK/assets/80212286/22280b8c-8253-4dab-9696-2bf3bab1f314)
+
+
