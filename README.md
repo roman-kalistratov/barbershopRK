@@ -33,6 +33,18 @@ server:
  npm run dev
 ```
 
+# Resource
+[Create React App](https://create-react-app.dev/)<br>
+[Mongoose](https://mongoosejs.com/)<br>
+[ExpressJS](https://expressjs.com/)<br>
+[Express Validator](https://express-validator.github.io/docs/)<br>
+[React Router](https://reactrouter.com/)<br>
+[Redux](https://redux.js.org/)<br>
+[SCSS](https://sass-lang.com/)<br>
+[JWT](https://github.com/auth0/node-jsonwebtoken)<br>
+[Axios](https://axios-http.com/)<br>
+[React Datepicker](https://reactdatepicker.com/)<br>
+
 # Preview
 ![demo-registration](https://github.com/roman-kalistratov/barbershopRK/assets/80212286/9078c8ac-d1ff-411f-a328-67832b92357f)
 ![demo-myAccount](https://github.com/roman-kalistratov/barbershopRK/assets/80212286/b89a8225-20f9-415a-ba63-e0bef0953510)
