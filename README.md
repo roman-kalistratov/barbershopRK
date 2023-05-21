@@ -8,14 +8,14 @@
 The website has a simple, stylish, and practical design that provides easy navigation and ease of use.
 
 ## Configuration
-to server/.env : 
+server/.env : 
 
 ```shell
  dbUrl = "Your connection to MongoDB"
  secretKey = "Your random secret key"
 ```
 
-to client/src.env.local : 
+client/src.env.local : 
 ```shell
 REACT_APP_GOOGLE_MAPS_API_KEY = "Your google maps api key"
 ```
