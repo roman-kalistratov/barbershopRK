@@ -9,11 +9,14 @@ The website has a simple, stylish, and practical design that provides easy navig
 
 Enter your data to work correctly:
 to server/.env : 
- - dbUrl = "Your connection to MongoDB"
- - secretKey = "Your random secret key"
+
+```shell
+ dbUrl = "Your connection to MongoDB"
+ secretKey = "Your random secret key"
+```
 
 to client/src.env.local : 
-- REACT_APP_GOOGLE_MAPS_API_KEY = "Your google maps api key"
+REACT_APP_GOOGLE_MAPS_API_KEY = "Your google maps api key"
 
 <img src="/demo-images/barbershop-demo.png?raw=true" >
 <img src="/demo-images/demo-login.png?raw=true" >
