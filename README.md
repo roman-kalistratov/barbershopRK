@@ -7,7 +7,7 @@ Project features include:
 
 The website has a simple, stylish, and practical design that provides easy navigation and ease of use.
 
-Enter your data to work correctly:
+## Configuration
 to server/.env : 
 
 ```shell
@@ -16,8 +16,11 @@ to server/.env :
 ```
 
 to client/src.env.local : 
+```shell
 REACT_APP_GOOGLE_MAPS_API_KEY = "Your google maps api key"
+```
 
+# Preview
 <img src="/demo-images/barbershop-demo.png?raw=true" >
 <img src="/demo-images/demo-login.png?raw=true" >
 <img src="/demo-images/demo-registration.png?raw=true" >
